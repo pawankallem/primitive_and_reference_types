@@ -2,7 +2,7 @@
   <div>
     <h1>{{ title }}</h1>
     <header>
-      <h1>Header for Vue file Mr.{{ name }}</h1>
+      <h1>Header for Vue file Mr.{{ name }}.</h1>
     </header>
   </div>
 </template>
