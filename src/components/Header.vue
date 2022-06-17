@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h1>{{ title }}</h1>
     <header>
       <h1>Header for Vue file Mr.{{ name }}.</h1>
     </header>

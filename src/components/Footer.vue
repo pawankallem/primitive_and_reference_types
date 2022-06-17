@@ -1,7 +1,7 @@
 <template>
   <div>
     <footer @click="changeTitle">
-      <h1>{{ title }} Copyrights for this application ISA: {{ year }}</h1>
+      <h1>Copyrights for this application ISA: {{ year }}</h1>
     </footer>
   </div>
 </template>
